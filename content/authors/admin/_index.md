@@ -102,8 +102,9 @@ languages:
     percent: 25
   - name: German
     percent: 20  
+---
 
-# About Me
+## About Me
 
 Hi and welcome to my profile 👋
 
@@ -116,4 +117,4 @@ Looking to seek more experience in the domain of generative modeling in the biom
 Learning is entertaining, and I'm always inspired to learn more :)
 
 Feel free to reach out if you have any inquiries or opportunities, or if you would just like to have an enlightening chat!
----
+
