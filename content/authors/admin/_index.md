@@ -103,17 +103,17 @@ languages:
   - name: German
     percent: 20  
 
-  ## About Me
+# About Me
 
-  Hi and welcome to my profile 👋
+Hi and welcome to my profile 👋
 
-  I'm a freshman student, in the progress of seeking a Masters of Science (M.Sc.) degree in Computer Science at the King Abdullah University of Science and Technology (KAUST).
+I'm a freshman student, in the progress of seeking a Masters of Science (M.Sc.) degree in Computer Science at the King Abdullah University of Science and Technology (KAUST).
 
-  My main technical focus revolves around computational intelligence, specifically multimodal generative modeling. Familiar with software engineering methodologies surrounding Machine Learning. Currently employing my knowledge to pursue a career in research in the fields of both bioinformatics and computational medical imaging. 
+My main technical focus revolves around computational intelligence, specifically multimodal generative modeling. Familiar with software engineering methodologies surrounding Machine Learning. Currently employing my knowledge to pursue a career in research in the fields of both bioinformatics and computational medical imaging. 
 
-  Looking to seek more experience in the domain of generative modeling in the biomedical fields, utilize my problem-solving skills in useful applications, and expand my horizons to new increasingly hot topics in AI through research and development. 
+Looking to seek more experience in the domain of generative modeling in the biomedical fields, utilize my problem-solving skills in useful applications, and expand my horizons to new increasingly hot topics in AI through research and development. 
 
-  Learning is entertaining, and I'm always inspired to learn more :)
+Learning is entertaining, and I'm always inspired to learn more :)
 
-  Feel free to reach me out if you have any inquiry, opportunity, or if you would just like to have an enlightening chat!
+Feel free to reach out if you have any inquiries or opportunities, or if you would just like to have an enlightening chat!
 ---
