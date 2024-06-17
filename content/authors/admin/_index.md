@@ -3,7 +3,7 @@
 title: Abdel Rahman Alsabbagh
 
 # Name pronunciation (optional)
-name_pronunciation: (Sometimes Abdelrahman Sabbagh)
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Abdel Rahman
