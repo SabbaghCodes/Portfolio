@@ -104,7 +104,6 @@ languages:
     percent: 20  
 
 ## About Me
-
 Hi and welcome to my profile 👋
 
 I'm a freshman student, in the progress of seeking a Masters of Science (M.Sc.) degree in Computer Science at the King Abdullah University of Science and Technology (KAUST).
@@ -116,4 +115,5 @@ Looking to seek more experience in the domain of generative modeling in the biom
 Learning is entertaining, and I'm always inspired to learn more :)
 
 Feel free to reach me out if you have any inquiry, opportunity, or if you would just like to have an enlightening chat!
+
 ---
