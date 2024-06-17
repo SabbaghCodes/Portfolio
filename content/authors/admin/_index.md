@@ -61,7 +61,6 @@ education:
     summary: |
       GPA: 3.99/4.0
 
-  
 work:
   - position: Visiting Researcher
     company_name: King Abdullah University of Science and Technology (KAUST)
@@ -76,24 +75,23 @@ work:
     date_start: 2023-02-21
     date_end: 2024-06-26
   - position: AI Engineer
-      company_name: Xina AI
-      company_url: 'https://www.xina.ai'
-      company_logo: '/workspaces/CV/xina_logo.png'
-      date_start: 2022-04-04
-      date_end: 2022-06-06
+    company_name: Xina AI
+    company_url: 'https://www.xina.ai'
+    company_logo: '/workspaces/CV/xina_logo.png'
+    date_start: 2022-04-04
+    date_end: 2022-06-06
   - position: Software Engineer
-      company_name: Atypon/Wiley
-      company_url: 'https://www.atypon.com'
-      company_logo: '/workspaces/CV/atypon_logo.png'
-      date_start: 2021-10-10
-      date_end: 2022-02-14
+    company_name: Atypon/Wiley
+    company_url: 'https://www.atypon.com'
+    company_logo: '/workspaces/CV/atypon_logo.png'
+    date_start: 2021-10-10
+    date_end: 2022-02-14
   - position: Academic Product Developer
-      company_name: ShAI for AI
-      company_url: 'https://shaiforai.com'
-      company_logo: '/workspaces/CV/shai_logo.png'
-      date_start: 2021-11-01
-      date_end: 2022-08-01
-
+    company_name: ShAI for AI
+    company_url: 'https://shaiforai.com'
+    company_logo: '/workspaces/CV/shai_logo.png'
+    date_start: 2021-11-01
+    date_end: 2022-08-01
 
 languages:
   - name: Arabic
@@ -105,12 +103,11 @@ languages:
   - name: German
     percent: 20  
 
-
 ## About Me
 
 Hi and welcome to my profile 👋
 
-I’m a freshman student, in the progress of seeking a Masters of Science (M.Sc.) degree in Computer Science at the King Abdullah University of Science and Technology (KAUST).
+I'm a freshman student, in the progress of seeking a Masters of Science (M.Sc.) degree in Computer Science at the King Abdullah University of Science and Technology (KAUST).
 
 My main technical focus revolves around computational intelligence, specifically multimodal generative modeling. Familiar with software engineering methodologies surrounding Machine Learning. Currently employing my knowledge to pursue a career in research in the fields of both bioinformatics and computational medical imaging. 
 
@@ -119,5 +116,4 @@ Looking to seek more experience in the domain of generative modeling in the biom
 Learning is entertaining, and I'm always inspired to learn more :)
 
 Feel free to reach me out if you have any inquiry, opportunity, or if you would just like to have an enlightening chat!
-
 ---
