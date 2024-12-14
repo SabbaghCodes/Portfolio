@@ -101,21 +101,18 @@ languages:
   - name: English
     percent: 100
   - name: Japanese
-    percent: 25
+    percent: 35
   - name: German
     percent: 20  
 ---
 
 ## About Me
 
-Hi and welcome to my profile 👋
+Hi and welcome to my portfolio 👋
 
+I am a freshman student pursuing a Master of Science degree in Computer Science at King Abdullah University of Science and Technology (KAUST). Please scroll a bit down to know more about and expertise and research!
 
-I am a freshman student pursuing a Master of Science degree in Computer Science at King Abdullah University of Science and Technology (KAUST).
-
-My primary focus lies in advancing computational intelligence, particularly in the realm of multimodal generative modeling. I have a solid foundation in software engineering practices surrounding machine learning and apply this expertise to research and development initiatives, with an emphasis on creating impactful solutions in artificial intelligence. While my current applications are in bioinformatics and computational medical imaging, my passion lies in the broader potential of AI technologies to address complex real-world problems.
-
-I am eager to deepen my experience in generative modeling and explore cutting-edge AI domains, contributing to meaningful applications in biomedical fields and beyond. I thrive on problem-solving and innovation, leveraging AI to push the boundaries of what is possible.
+I am eager to deepen my experience in generative modelling and explore cutting-edge AI domains, contributing to meaningful applications in both research and industry. I thrive on problem-solving and innovation, leveraging AI to push the boundaries of what is possible.
 
 Continuous learning drives me, and I am always inspired to expand my knowledge and skill set through research and hands-on development :)
 

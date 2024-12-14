@@ -32,14 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Expertise'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My primary focus lies in advancing computational intelligence, particularly in the realm of multimodal generative modeling. I have a solid foundation in software engineering practices surrounding machine learning and apply this expertise to research and development initiatives, with an emphasis on creating impactful solutions in artificial intelligence. While my current applications are in bioinformatics and computational medical imaging, my passion lies in the broader potential of AI technologies to address complex real-world problems.
     design:
       columns: '1'
   - block: collection
