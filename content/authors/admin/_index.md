@@ -108,13 +108,13 @@ languages:
 
 Hi and welcome to my profile 👋
 
-I'm a freshman student, in the progress of seeking a Masters of Science (M.Sc.) degree in Computer Science at the King Abdullah University of Science and Technology (KAUST).
 
-My main technical focus revolves around computational intelligence, specifically multimodal generative modeling. Familiar with software engineering methodologies surrounding Machine Learning. Currently employing my knowledge to pursue a career in research in the fields of both bioinformatics and computational medical imaging. 
+I am a freshman student pursuing a Master of Science degree in Computer Science at King Abdullah University of Science and Technology (KAUST).
 
-Looking to seek more experience in the domain of generative modeling in the biomedical fields, utilize my problem-solving skills in useful applications, and expand my horizons to new increasingly hot topics in AI through research and development. 
+My primary focus lies in advancing computational intelligence, particularly in the realm of multimodal generative modeling. I have a solid foundation in software engineering practices surrounding machine learning and apply this expertise to research and development initiatives, with an emphasis on creating impactful solutions in artificial intelligence. While my current applications are in bioinformatics and computational medical imaging, my passion lies in the broader potential of AI technologies to address complex real-world problems.
 
-Learning is entertaining, and I'm always inspired to learn more :)
+I am eager to deepen my experience in generative modeling and explore cutting-edge AI domains, contributing to meaningful applications in biomedical fields and beyond. I thrive on problem-solving and innovation, leveraging AI to push the boundaries of what is possible.
 
-Feel free to reach out if you have any inquiries or opportunities, or if you would just like to have an enlightening chat!
+Continuous learning drives me, and I am always inspired to expand my knowledge and skill set through research and hands-on development :)
 
+Feel free to reach out if you have inquiries, opportunities, or just want to exchange ideas about the exciting intersection of AI and its applications in industry!
