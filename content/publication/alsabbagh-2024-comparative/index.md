@@ -11,5 +11,5 @@ url_pdf: 'https://arxiv.org/pdf/2406.08758'
 url_source: 'https://arxiv.org/abs/2406.08758'
 publication_types:
 - article-journal
-publication: '*arXiv'
+publication: '*arXiv*'
 ---
