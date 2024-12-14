@@ -11,7 +11,7 @@ last_name: Alsabbagh
 
 # Status emoji
 status:
-  icon: 🧬
+  icon: 💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: BioAI Researcher
+role: Graduate Student Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -46,20 +46,22 @@ profiles:
 
 interests:
   - Deep Generative Modeling
-  - Multimodal Machine Learning
+  - Multimodal Foundation/Large Languauge Models
   - Computational Bioscience & BioAI
 
 education:
-  - area: M.Sc. in Computer Science
+  - area: MS in Computer Science
     institution: King Abdullah University of Science and Technology (KAUST)
     date_start: 2024-08-25
     date_end: 2026-05-29
-  - area: B.Sc. in Artificial Intelligence
+    summary: |
+      CGPA: 4/4
+  - area: BS in Artificial Intelligence
     institution: The University of Jordan
     date_start: 2020-10-01
     date_end: 2024-06-26
     summary: |
-      GPA: 3.99/4.0
+      CGPA: 3.98/4
 
 work:
   - position: Visiting Researcher
