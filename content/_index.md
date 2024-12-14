@@ -36,6 +36,8 @@ sections:
       subtitle: ''
       text: |-
         My primary focus lies in advancing computational intelligence, particularly in the realm of multimodal generative modeling. I have a solid foundation in software engineering practices surrounding machine learning and apply this expertise to research and development initiatives, with an emphasis on creating impactful solutions in artificial intelligence. While my current applications are in bioinformatics and computational medical imaging, my passion lies in the broader potential of AI technologies to address complex real-world problems.
+
+        Explore the "Experience" tab above to learn more about the roles I’ve taken on over the years!
     design:
       columns: '1'
   - block: collection
@@ -45,7 +47,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false
     design:
       view: article-grid
       columns: 2

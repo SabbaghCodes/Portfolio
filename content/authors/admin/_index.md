@@ -110,7 +110,7 @@ languages:
 
 Hi and welcome to my portfolio 👋
 
-I am a freshman student pursuing a Master of Science degree in Computer Science at King Abdullah University of Science and Technology (KAUST). Please scroll a bit down to know more about and expertise and research!
+I am a freshman student pursuing a Master of Science degree in Computer Science at King Abdullah University of Science and Technology (KAUST). Please scroll a bit down to know more about my expertise !
 
 I am eager to deepen my experience in generative modelling and explore cutting-edge AI domains, contributing to meaningful applications in both research and industry. I thrive on problem-solving and innovation, leveraging AI to push the boundaries of what is possible.
 
