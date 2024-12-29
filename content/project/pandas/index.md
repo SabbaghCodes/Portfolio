@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: MiniMedGPT
+# date: 2023-10-26
+external_link: https://github.com/SabbaghCodes/MiniMedGPT
+# tags:
+#   - Hugo
+#   - Wowchemy
+#   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Visual question answering system for neuroradiology, brain tumors, and lung cancer screening, and more using MRI and CT scans.
 
 <!--more-->
