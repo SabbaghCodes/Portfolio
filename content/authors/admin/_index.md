@@ -11,7 +11,7 @@ last_name: Alsabbagh
 
 # Status emoji
 status:
-  icon: 💻
+  icon: 🔍
 
 # Is this the primary user of the site?
 superuser: true
@@ -46,6 +46,7 @@ profiles:
 
 interests:
   - Deep Generative Modeling
+  - Management Consulting Decision-Making
   - Multimodal Foundation/Large Languauge Models
   - Computational Bioscience & BioAI
 
@@ -99,7 +100,7 @@ languages:
   - name: Arabic
     percent: 100
   - name: English
-    percent: 100
+    percent: 90
   - name: Japanese
     percent: 35
   - name: German

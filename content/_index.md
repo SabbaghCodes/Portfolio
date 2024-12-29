@@ -35,7 +35,7 @@ sections:
       title: '📚 My Expertise'
       subtitle: ''
       text: |-
-        My primary focus lies in advancing computational intelligence, particularly in the realm of multimodal generative modeling. I have a solid foundation in software engineering practices surrounding machine learning and apply this expertise to research and development initiatives, with an emphasis on creating impactful solutions in artificial intelligence. While my current applications are in bioinformatics and computational medical imaging, my passion lies in the broader potential of AI technologies to address complex real-world problems.
+        My primary focus is on advancing computational intelligence, particularly in the field of multimodal generative modeling. I have a strong foundation in software engineering practices for machine learning, which I apply to research and development initiatives aimed at creating impactful solutions in artificial intelligence. While my current work centers on applications in bioinformatics and computational medical imaging, I'm increasingly drawn to exploring how AI can be applied in management consulting and decision-making, addressing complex real-world challenges through strategic innovation.
 
         Explore the "Experience" tab above to learn more about the roles I’ve taken on over the years!
     design:
