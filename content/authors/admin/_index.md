@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/SabbaghCodes/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/abdelrahmanalsabbagh/
+    url: https://www.linkedin.com/in/abdelrahmansabbagh/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=g5n2qw4AAAAJ&hl=en
   - icon: academicons/orcid
