@@ -110,10 +110,12 @@ languages:
 
 Hi and welcome to my portfolio 👋
 
-I am a freshman student pursuing a Master of Science degree in Computer Science at King Abdullah University of Science and Technology (KAUST). Please scroll a bit down to know more about my expertise !
+I'm a freshman student pursuing a Master of Science degree in Computer Science at King Abdullah University of Science and Technology (KAUST). Please scroll down to learn more about my expertise!
 
-I am eager to deepen my experience in generative modelling and explore cutting-edge AI domains, contributing to meaningful applications in both research and industry. I thrive on problem-solving and innovation, leveraging AI to push the boundaries of what is possible.
+I'm eager to deepen my experience in generative modeling and explore cutting-edge AI domains, contributing to meaningful applications in both research and industry. My passion lies at the intersection of problem-solving, innovation, and impactful decision-making, where I aim to harness AI to address complex challenges.
 
-Continuous learning drives me, and I am always inspired to expand my knowledge and skill set through research and hands-on development :)
+In addition to my technical pursuits, I'm deeply intrigued by management consulting and decision-making. I enjoy discovering how data-driven insights and strategic thinking can drive transformative solutions for organizations and society.
 
-Feel free to reach out if you have inquiries, opportunities, or just want to exchange ideas about the exciting intersection of AI and its applications in industry!
+Continuous learning drives me, and I'm always inspired to expand my knowledge and skill set through research, hands-on development, and exploring the human side of strategic problem-solving.
+
+Feel free to reach out if you have inquiries, opportunities, or just want to exchange ideas about the exciting interplay of AI, management consulting, and impactful decision-making!
