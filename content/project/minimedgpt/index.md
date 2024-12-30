@@ -1,6 +1,6 @@
 ---
 title: MiniMedGPT
-# date: 2023-10-26
+date: 2024-05-18
 external_link: https://github.com/SabbaghCodes/MiniMedGPT
 # tags:
 #   - Hugo
