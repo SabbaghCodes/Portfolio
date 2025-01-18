@@ -1,7 +1,7 @@
 ---
-title: MiniMedGPT
+title: RadioVertex
 date: 2024-05-18
-external_link: https://github.com/SabbaghCodes/MiniMedGPT
+external_link: https://github.com/SabbaghCodes/RadioVertex
 # tags:
 #   - Hugo
 #   - Wowchemy
