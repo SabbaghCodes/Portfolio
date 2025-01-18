@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'abdelrahman.sabbagh@kaust.edu.sa'
+    url: 'mailto:abdelrahman.sabbagh@kaust.edu.sa'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/SabbaghTweets
